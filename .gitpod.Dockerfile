@@ -1,1 +1,1 @@
-gitpod/workspace-mongodb
+FROM gitpod/workspace-mongodb
